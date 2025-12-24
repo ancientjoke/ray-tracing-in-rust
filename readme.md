@@ -1,3 +1,9 @@
+download latest version of rust; rustc --version   +    cargo --version
+1. cd "path"
+2. cargo build
+3. cargo run OR
+4. cargo run --release
+
 <img width="801" height="633" alt="image" src="https://github.com/user-attachments/assets/68b27327-47db-487c-949c-d86117f5ce29" />
 
 
