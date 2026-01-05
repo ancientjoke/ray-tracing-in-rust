@@ -8,6 +8,6 @@ download latest version of rust; rustc --version   +    cargo --version
 
 
 --------
-- [source](https://raytracing.github.io/)
-- [source](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
+- [source reference 1](https://raytracing.github.io/)
+- [source reference 2](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics/)
 --------
